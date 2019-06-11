@@ -1,6 +1,6 @@
 #!usr
 # -*- coding: UTF-8 -*-
-# Mod by: MR.K7C8NG
+# Mod by: X-HOVL3R
 # team: life of programmer
 
 
@@ -38,7 +38,7 @@ def banner():
     print " "
     runntxt(GL+"              Assalamu'@laikum. ^_^")
     runntxt(WW+"   ..................  ANDA MENCOBA MENGHUBUNGI")
-    runntxt(WW+"     ....       MR.K7C8NG")
+    runntxt(WW+"     ....       X-HOVL3R")
     runntxt(GL+"                   BODO AMAT CUK")
     runntxt(GG+"     ..........     MANDI DULU SANA")
     runntxt(Y+"    ............       DILARANG CO*I")
@@ -47,10 +47,10 @@ def banner():
     print GG+"  √=============================================√"
     print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: MR.K7C8NG             |"
+    print WW+"  |            MOD BY: X-HOVL3R             |"
     print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |        TEAM : InDoNeSiA CYBER ErRoR SyStEm            |"
-    print Y+"  |             INSTAGRAM: pranata_pasha              |"
+    print WW+"  |        TEAM : Sunda Cyber Army            |"
+    print Y+"  |             INSTAGRAM: _rifqq              |"
     print GL+"  |---------------------------------------------|"
     print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
     print GL+"  |---------------------------------------------|"
@@ -174,7 +174,7 @@ def runn_noobs():
                   `.-::////::-.` \033[91;1m
 
                 \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m MR.K7C8NG
+             Powered by:\033[97m X-HOVL3R
       """
 
 
